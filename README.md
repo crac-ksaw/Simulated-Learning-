@@ -22,7 +22,7 @@ Below is a simple flow of how the Voting System operates:
 
 ## Contract Address
 
-- **Contract Address**: `0xYourContractAddressHere` (replace with your actual contract address after deployment)
+- **Contract Address**: `0x824d68f124F94b4A7d630bB911313fB06Bc85727`
 
 ## Smart Contract Overview
 
