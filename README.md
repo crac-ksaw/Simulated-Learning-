@@ -48,7 +48,7 @@ Below is a simple flow of how the Voting System operates:
 
 For any queries or collaboration opportunities, please reach out:
 
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- **Name**: Partha sinha
+- **Email**: kennyblinder71@gmail.com
+- **GitHub**: [github.com/crac-ksaw](https://github.com/crac-ksaw)
 - **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
