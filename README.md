@@ -1,6 +1,8 @@
 # Blockchain-Based Voting System
 
 ## Vision
+![image](https://github.com/user-attachments/assets/fb8e9b3b-56d9-4e2a-91ab-99d3b76ee3a4)
+
 
 The goal of this project is to build a transparent and secure voting system leveraging blockchain technology. By decentralizing the voting process, we eliminate the risks of manipulation, ensuring that every vote is counted and recorded immutably on the blockchain.
 
